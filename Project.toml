@@ -1,0 +1,13 @@
+name = "Multigrid"
+uuid = "71e749a4-657c-4a3c-931f-aea8f1ce7688"
+authors = ["Matt Landreman"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
